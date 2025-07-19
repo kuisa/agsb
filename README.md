@@ -122,7 +122,7 @@ python3 agsb.py
 ## 一键安装命令
 
 ```bash
-cd ~ && wget https://raw.githubusercontent.com/zhumengkang/agsb/main/root.sh && chmod +x root.sh && ./root.sh
+cd ~ && wget https://raw.githubusercontent.com/kuisa/agsb/main/root.sh && chmod +x root.sh && ./root.sh
 ```
 
 ## 基本命令
